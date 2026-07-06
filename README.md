@@ -1,2 +1,0 @@
-# crispy-pancake
-Demonstration session
